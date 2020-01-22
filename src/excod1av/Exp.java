@@ -10,7 +10,7 @@ package excod1av;
  * @author ceque
  */
 public class Exp {
-    public void C(){
-        System.out.println("Commit C");
+    public void D(){
+        System.out.println("Commit D");
     }
 }
